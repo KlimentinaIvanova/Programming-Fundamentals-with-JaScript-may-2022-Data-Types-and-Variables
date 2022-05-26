@@ -1,3 +1,3 @@
-# DataTypesandVariables
+# Data Types and Variables
 Programming Fundamentals - may 2022
-DataTypesandVariables
+Data Types and Variables tasks
